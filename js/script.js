@@ -1,0 +1,1 @@
+$(window).on("load",function(){    $('.chat-field').mCustomScrollbar({        axis:"yx",        theme:"light"    });})
